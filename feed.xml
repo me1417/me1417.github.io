@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHẦN MỀM VPS</title>
+    <description>Blog tổng hợp những phần mềm thông dụng cho máy tính và chia sẻ những thủ thuật internet hay tới mọi người</description>
+    <link>https://phanmemvps.com/</link>
+    <atom:link href="https://phanmemvps.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Nov 2019 03:21:12 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2019 03:21:12 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Vmware Workstation 15 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Vmware Workstation 15&lt;/span&gt;&lt;/strong&gt; là phần mềm tạo máy vi tính ảo trên Windows. Phần meefmnafy có thể tạo máy ảo giả lập của nhiều hệ điều hành khác nhau. Bạn có thể tạo riêng một máy ảo Windows 10 ngay trên máy tính để kiểm tra virus, các phần mềm độc hại, hay kiểm tra thử các hệ điều hành và chạy thử phần mềm mà hoàn toàn không ảnh hưởng đến máy thật.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Các chức năng của Vmware Workstation 15&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hỗ trợ cài nhiều loại hệ điều hành.&lt;/li&gt;
+  &lt;li&gt;Phần mềm trực quan dễ sử dụng.&lt;/li&gt;
+  &lt;li&gt;USB tự động kết nối&lt;/li&gt;
+  &lt;li&gt;SSH vào máy chủ kết nối&lt;/li&gt;
+  &lt;li&gt;Copy và paste trực tiếp giữa máy ảo và thật.&lt;/li&gt;
+  &lt;li&gt;Hỗ trợ phần cứng 3D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-link-download-vmware-workstation-15&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Vmware Workstation 15&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/uPWoD3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/4fn6je&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để xem key online.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Password để xem: &lt;strong&gt;&lt;span style=&quot;color:#ce8349&quot;&gt;phanmemvps.com&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/EpyB4g&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/3bG1AN&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/ddt0uR&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-vmware-workstation-15&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Vmware Workstation 15&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Cài và khởi động phần mềm.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Copy chính xác key được cung cấp và điền vào phần mềm để active. Sau đó bạn dùng như bình thường.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Vmware-Workstation-15/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Vmware-Workstation-15/</guid>
+        
+        
+        <category>windows</category>
+        
+      </item>
+    
+      <item>
+        <title>[Hướng dẫn] Cách Sử Dụng Chế Độ Dark Mode Trên Chrome Và Firefox</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Dark Mode&lt;/span&gt;&lt;/strong&gt; là chức năng chuyển đổi tông màu, biến mọi trang web thành nền tối dù trang web đó có hỗ trợ hay không. Dark Mode thường dùng vào ban đêm hoặc điều kiện thiếu sáng giúp dịu mắt hơn hoặc đôi khi chỉ là để thay đổi giao diện cho đỡ nhàm chán.&lt;/p&gt;
+&lt;h2 id=&quot;hướng-dẫn-sử-dụng-chế-độ-dark-mode-trên-chrome-và-firefox&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn sử dụng chế độ Dark Mode trên Chrome và Firefox&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;trên-chrome&quot;&gt;Trên Chrome&lt;/h3&gt;
+&lt;h4 id=&quot;cách-1&quot;&gt;Cách 1:&lt;/h4&gt;
+&lt;p&gt;Từ bản Chrome 78 trở đi bạn có thể kích hoạt chế độ Dark Mode mặc định, bạn vào chỉnh setting của Chrome bằng cách nhập đường dẫn **&lt;span style=&quot;color:#4078c0&quot;&gt;chrome://flags/#enable-force-dark**&lt;/span&gt;. Sau đó kích hoạt chức năng này lên.&lt;/p&gt;
+
+&lt;p&gt;Tuy nhiên hiện nay mình chưa thấy phím tắt để bật tắt nhanh chế độ này do đó mình vẫn dùng theo cách 2, vì tính năng này vẫn chưa được hoàn thiện khi chạy trên một số website.
+&lt;img src=&quot;/assets/images/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cách-2&quot;&gt;Cách 2:&lt;/h4&gt;
+&lt;p&gt;Dùng Chrome Extension. Cách này không liên quan đến chế độ mặc định của Chrome.&lt;/p&gt;
+
+&lt;p&gt;Các bạn tìm extension Dark Reader trên Chrome Web Store hoặc vào &lt;a href=&quot;https://blfy.link/wl2Wqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;link này&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cách này thì bạn có thể dùng phím tắt và tùy chỉnh phím tắt. Hoặc bật tắt chế độ riêng cho từng trang web.
+&lt;img src=&quot;/assets/images/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;trên-firefox&quot;&gt;Trên Firefox&lt;/h3&gt;
+&lt;p&gt;Các bạn tìm add-on Dark Reader trên Addons Mozilla hoặc vào &lt;a href=&quot;https://blfy.link/6YgxRL&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;link này&lt;/strong&gt;&lt;/a&gt;.
+&lt;img src=&quot;/assets/images/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox-03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox/</guid>
+        
+        
+        <category>thủ thuật</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Xyplorer 20.50 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Xyplorer 20.50 2020&lt;/span&gt;&lt;/strong&gt; là phần mềm quản lý tập tin cho Windows giúp bạn sắp xếp thư mục ngăn nắp và thao tác nhanh chóng. Đối với những ai hay thao tác với nhiều thư mục cùng lúc thì phần mềm này rất tiên lợi giúp bạn thao tác thư mục theo tab và cùng với các chức năng chuyên sâu giúp việc quản lý thư mục tốt hơn.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-link-download-xyplorer-2050&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Xyplorer 20.50&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/9T9HFZ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/e0hHo2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để xem key online.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Password để xem: &lt;strong&gt;&lt;span style=&quot;color:#ce8349&quot;&gt;phanmemvps.com&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/mHHS2R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/ZyJNSI&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/3nxCe4&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-xyplorer-2050&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Xyplorer 20.50&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Click đúp chuột vào &lt;strong&gt;XYplorer_20.50_Install.exe&lt;/strong&gt; để cài phần mềm.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Copy chính xác key và name, điền vào phần mềm để unlock. Done&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Xyplorer-20.50/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Xyplorer-20.50/</guid>
+        
+        
+        <category>tiện ích</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Movavi Video Editor Plus 2020 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Movavi Video Editor Plus 2020&lt;/span&gt;&lt;/strong&gt; là phần mềm chỉnh sửa video bán chuyên, nhỏ gọn và dễ sử dụng như Camtasia, phù hợp với người dùng muốn tạo ra các clip video hay cho bạn bè và gia đình. Phần mềm có công cụ trực quan, thân thiện với người dùng , tốc độ trích xuất file nhanh.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Các chức năng của Movavi Video Editor Plus 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chỉnh sửa , cắt ghép video theo layer&lt;/li&gt;
+  &lt;li&gt;Dễ dàng tách tiếng và hình&lt;/li&gt;
+  &lt;li&gt;Dễ dàng gắn sub và watermark, logo.&lt;/li&gt;
+  &lt;li&gt;Chế độ render nhanh, hình ảnh đẹp sắc nét, cùng với nhiều bộ lọc.&lt;/li&gt;
+  &lt;li&gt;Chế độ đảo ngược video và cắt ghép theo khung hình.&lt;/li&gt;
+  &lt;li&gt;Các tùy chọn hiệu ứng, chỉnh tốc độ và các chức năng khác.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-link-download-movavi-video-editor-plus-2020&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Movavi Video Editor Plus 2020&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/dLdBlV&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/KnOK5z&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt;
+Các bạn download 01 trong các link sau:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/CHqrkX&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/iGK8VQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/DYc1GV&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-movavi-video-editor-plus-2020&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Movavi Video Editor Plus 2020&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Click đúp chuột vào &lt;strong&gt;MovaviVideoEditorPlusSetupC.exe&lt;/strong&gt; để cài phần mềm. Khi cài xong phần mềm tự khởi động. Bạn tắt phần mềm đi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; &lt;strong&gt;(Bước này quan trọng)&lt;/strong&gt;. Bạn copy &lt;strong&gt;file Patch.exe&lt;/strong&gt; vào folder cài phần mềm. Đường dẫn thường là “C:\Users**Username&lt;strong&gt;\AppData\Roaming\Movavi Video Editor Plus 2020” với **Username&lt;/strong&gt; là tên User náy tính của bạn. Hoặc các bạn xem đường dẫn bằng cách bấm chuột phải vào shortcut, chon open file location là được. Sau đó chạy file patch. Done. Sau đó dùng phần mềm bình thường.
+&lt;img src=&quot;/assets/images/Movavi-Video-Editor-Plus-2020-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 3:&lt;/strong&gt; Tắt auto update. Trên thanh Menu, vào Settings, chọn Preferences, Chọn General. Bấm vào bỏ dấu tích chọn tắt auto update. Sau đó bấm Ok.
+&lt;img src=&quot;/assets/images/Movavi-Video-Editor-Plus-2020-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Movavi-Video-Editor-Plus-2020/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Movavi-Video-Editor-Plus-2020/</guid>
+        
+        
+        <category>video editor</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Movavi Video Converter Premium v19 Portable Full Mới Nhất - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Movavi Video Converter Premium v19 Portable&lt;/span&gt;&lt;/strong&gt; là phần mềm chuyển đổi định dạng các video mạnh mẽ nhưng gọn nhẹ. Có thể chuyển đổi hầu hết các định dạng video hiện nay. Ngài ra, phần mềm còn hỗ trợ trích xuất âm thanh từ video.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-link-download-movavi-video-converter-premium-v19-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Movavi Video Converter Premium v19 Portable&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;(Các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/tDYmMs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/THixgO&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/nrTp7d&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-movavi-video-converter-premium-v19-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Movavi Video Converter Premium v19 Portable&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn cài đặt&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Đây là bản portable nên &lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;không cần cài đặt&lt;/span&gt;&lt;/strong&gt;. Sau khi giải nén các bạn vào folder và chạy phần mềm như bình thường.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Movavi-Video-Converter-Premium-v19-Portable/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Movavi-Video-Converter-Premium-v19-Portable/</guid>
+        
+        <category>portable</category>
+        
+        
+        <category>video editor</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Iobit Uninstaller Pro v9 Portable Full Mới Nhất - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Iobit Uninstaller Pro v9 Portable&lt;/span&gt;&lt;/strong&gt; là phần mềm gỡ các chương trình được cài đặt lên máy tính của bạn. Chương trình chuyên dùng để loại bỏ những phần mềm không cần thiết trên máy tính một cách triệt để, nhanh chóng và dễ dàng.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-link-download-iobit-uninstaller-pro-v9-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Iobit Uninstaller Pro v9 Portable&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;(Các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/KOEPNN&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/CZWrTQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/rOiQFq&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-iobit-uninstaller-pro-v9-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Iobit Uninstaller Pro v9 Portable&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn cài đặt&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Đây là bản portable nên &lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;không cần cài đặt&lt;/span&gt;&lt;/strong&gt;. Sau khi giải nén các bạn vào folder và chạy phần mềm như bình thường.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Iobit-Uninstaller-Pro-v9-Portable/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Iobit-Uninstaller-Pro-v9-Portable/</guid>
+        
+        <category>portable</category>
+        
+        
+        <category>tiện ích</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Foxit Phantom PDF Business 9 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Foxit Phantom PDF Business 9&lt;/span&gt;&lt;/strong&gt; là phần mềm đọc và chỉnh sửa file PDF chuyên nghiệp. Chuyền dùng để chỉnh sửa, thêm xóa nội dung, chèn trang, ghép các bản pdf, chuyển đổi hình ảnh qua pdf, thêm chữ ký số và mã hóa tài liệu pdf. Công cụ dễ sử dụng, nhanh và mạnh mẽ.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-link-download-foxit-phantom-pdf-business-9&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Foxit Phantom PDF Business 9&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/M5qtsV&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/61PKz3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/Pd4gGt&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/PJfDWs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/ns0MOB&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-foxit-phantom-pdf-business-9&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Foxit Phantom PDF Business 9&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Click đúp chuột vào &lt;strong&gt;file camtasia.exe&lt;/strong&gt; để cài phần mềm.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; &lt;strong&gt;(Bước này quan trọng)&lt;/strong&gt;. Bạn copy &lt;strong&gt;file FoxitPhantomPDF.exe và Express2BusinessFix.reg&lt;/strong&gt; vào folder cài phần mềm.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bước 3:&lt;/strong&gt; Click đúp chuột vào &lt;strong&gt;file Express2BusinessFix.reg&lt;/strong&gt; để kích hoạt. Sau đó bạn dùng như bình thường.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Foxit-Phantom-PDF-Business-9/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Foxit-Phantom-PDF-Business-9/</guid>
+        
+        
+        <category>văn phòng</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Camtasia 2019 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Camtasia 2019&lt;/span&gt;&lt;/strong&gt; là phần mềm chỉnh sửa video bán chuyên, phù hợp với người dùng phổ thông, Youtuber tạo các video và clip cá nhân. Phần mềm có công cụ trực quan, thân thiện với người dùng , bất kỳ ai cũng có thể dễ dàng sử dụng phần mềm này để tạo ra những video hay cho riêng mình.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Các chức năng của Camtasia 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chỉnh sửa , cắt ghép video theo layer&lt;/li&gt;
+  &lt;li&gt;Dễ dàng tách tiếng và hình&lt;/li&gt;
+  &lt;li&gt;Dễ dàng gắn sub và watermark, logo.&lt;/li&gt;
+  &lt;li&gt;Chế độ render nhanh, hình ảnh đẹp sắc nét.&lt;/li&gt;
+  &lt;li&gt;Tinh chỉnh video theo từng đoạn, khung hình&lt;/li&gt;
+  &lt;li&gt;Các tùy chọn hiệu ứng, chỉnh tốc độ và các chức năng khác.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-link-download-camtasia-2019&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Camtasia 2019&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/iNqfl2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/fGXnEJ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/D5UGYZ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/LN6ly0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/MSwJLC&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-camtasia-2019&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Camtasia 2019&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Click đúp chuột vào &lt;strong&gt;file camtasia.exe&lt;/strong&gt; để cài phần mềm. Khi cài xong phần mềm tự khởi động. Bạn tắt phần mềm đi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; &lt;strong&gt;(Bước này quan trọng)&lt;/strong&gt;. Bạn copy &lt;strong&gt;file Patch.exe&lt;/strong&gt; vào folder cài phần mềm. Đường dẫn thường là “C:\Program Files\TechSmith”, chạy file patch. Done. Sau đó dùng phần mềm bình thường.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 3:&lt;/strong&gt; Tắt auto update. Trên thanh Menu, vào Edit, chọn Prefrerences, Chọn Advanced. Bấm vào bỏ dấu tích chọn tắt auto update. Sau đó bấm Ok.
+&lt;img src=&quot;/assets/images/Camtasia-2019-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Camtasia-2019/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Camtasia-2019/</guid>
+        
+        
+        <category>video editor</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Phần Mềm Adobe After Effects 2020 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Adobe After Effects 2020&lt;/span&gt;&lt;/strong&gt; là phần mềm chỉnh sửa video chuyên nghiệp. Chuyên dùng để tạo hiệu ứng phim và chuyển động trong các công đoạn hậu kỳ chỉnh sửa phim. Phần mềm có các công cụ được tối ưu nên dễ sử dụng và có hiệu suất cao.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Các chức năng của Adobe After Effects 2020:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Xóa bỏ các vật thể nhờ hỗ trợ của AI.&lt;/li&gt;
+  &lt;li&gt;Chế độ lịch sửa thao tác giúp hoàn tác các thao tác đã làm.&lt;/li&gt;
+  &lt;li&gt;Xem trước các công đoạn sửa chữa.&lt;/li&gt;
+  &lt;li&gt;Hệ thống xuất tệp video được cải thiện.&lt;/li&gt;
+  &lt;li&gt;Tăng tốc nhờ cải thiện hiệu xuất CPU.&lt;/li&gt;
+  &lt;li&gt;Dễ dàng tạo hiệu ứng và chỉnh sửa video với các layer và nhiều chức năng khác.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-link-download-adobe-after-effects-2020-x64&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Adobe After Effects 2020 x64&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/rMO9Nh&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/nmKPmz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bản cài đặt ở trên đã là bản Full. Bạn chỉ cần tải về và cài đặt là được, phần mềm sẽ &lt;strong&gt;tự động kích hoạt.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-adobe-after-effects-2020&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Adobe After Effects 2020&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Nếu bạn chưa cài &lt;strong&gt;Adobe Creative Cloud&lt;/strong&gt;, thì các bạn hãy cài nó và đăng nhập vào nha, nếu không sẽ không mở được phần mềm. Các bạn có thể tải trên trang chủ hoặc vào folder &lt;strong&gt;Adobe Creative Cloud&lt;/strong&gt; và click đúp chuột vào &lt;strong&gt;file Set-up.exe&lt;/strong&gt; như hình để cài Adobe Creative Cloud.
+&lt;img src=&quot;/assets/images/Adobe-Photoshop-2020-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Vào folder &lt;strong&gt;Setup (Pre-activated)&lt;/strong&gt; click đúp chuột vào &lt;strong&gt;file Set-up.exe&lt;/strong&gt; để cài phần mềm.
+&lt;img src=&quot;/assets/images/Adobe-Photoshop-2020-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Adobe-After-Effects-2020/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Adobe-After-Effects-2020/</guid>
+        
+        
+        <category>video editor</category>
+        
+      </item>
+    
+      <item>
+        <title>[Download] Tải Window 10 Pro 2019 Full Mới Nhất | Link Google Drive - Hướng Dẫn Cài Đặt (Updated 2019)</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Window 10 Pro 2019&lt;/span&gt;&lt;/strong&gt; là hệ điều hành được dùng phổ biến trên thế giới. Window 10 Pro 2019 được cải tiến về chức năng, được cập nhật thường xuyên, giao diện đẹp mắt, phù hợp với người dùng cá nhân.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-link-download-window-10-pro-2019-full&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;A. Link download Window 10 Pro 2019 Full&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Link download bản cài đặt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link Google Drive tốc độ cao: &lt;a href=&quot;https://blfy.link/6a5i8D&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link Google Drive&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/9XvrkM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt:&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/hnyULp&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link1&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/i3TfK0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blfy.link/wCpl9i&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;b-hướng-kích-hoạt-window-10-pro-2019-full&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng kích hoạt Window 10 Pro 2019 Full&lt;/span&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 1: Chạy &lt;strong&gt;file Activate AIO Tools v3.1.2&lt;/strong&gt; với quyền admin (Run as administrator).
+  &lt;img src=&quot;/assets/images/Kich-Hoat-Window-10-Office-2019-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bước 2: Giao diện chính của tool hiện lên thì bấm P. Sau đó lần lượt bấm phím 3, 1.
+  &lt;img src=&quot;/assets/images/Kich-Hoat-Window-10-Office-2019-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Các bạn có thể tham khảo thêm cách active các phiên bản window 10 và Office 2019 &lt;a href=&quot;https://phanmemvps.com/Kich-Hoat-Window-10-Office-2019&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Các bạn xem các bài viết khác trong Blog để tìm thêm các phần mềm hữu ích khác nha.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://phanmemvps.com/Window-10-Pro-2019/</link>
+        <guid isPermaLink="true">https://phanmemvps.com/Window-10-Pro-2019/</guid>
+        
+        
+        <category>windows</category>
+        
+      </item>
+    
+  </channel>
+</rss>
