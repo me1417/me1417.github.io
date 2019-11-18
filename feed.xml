@@ -5,8 +5,8 @@
     <description>Blog tổng hợp những phần mềm thông dụng cho máy tính và chia sẻ những thủ thuật internet hay tới mọi người</description>
     <link>https://phanmemvps.com/</link>
     <atom:link href="https://phanmemvps.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Nov 2019 16:17:19 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Nov 2019 16:17:19 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2019 07:57:32 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2019 07:57:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -30,7 +30,7 @@
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/4fn6je&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để xem key online.)&lt;/em&gt;&lt;/p&gt;
 
@@ -42,7 +42,7 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-vmware-workstation-15&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Vmware Workstation 15&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -69,7 +69,7 @@
 &lt;h2 id=&quot;hướng-dẫn-sử-dụng-chế-độ-dark-mode-trên-chrome-và-firefox&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn sử dụng chế độ Dark Mode trên Chrome và Firefox&lt;/span&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;trên-chrome&quot;&gt;Trên Chrome&lt;/h3&gt;
 &lt;h4 id=&quot;cách-1&quot;&gt;Cách 1:&lt;/h4&gt;
-&lt;p&gt;Từ bản Chrome 78 trở đi bạn có thể kích hoạt chế độ Dark Mode mặc định, bạn vào chỉnh setting của Chrome bằng cách nhập đường dẫn **&lt;span style=&quot;color:#4078c0&quot;&gt;chrome://flags/#enable-force-dark**&lt;/span&gt;. Sau đó kích hoạt chức năng này lên.&lt;/p&gt;
+&lt;p&gt;Từ bản Chrome 78 trở đi bạn có thể kích hoạt chế độ Dark Mode mặc định, bạn vào chỉnh setting của Chrome bằng cách nhập đường dẫn &lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;chrome://flags/#enable-force-dark&lt;/span&gt;&lt;/strong&gt;. Sau đó kích hoạt chức năng này lên.&lt;/p&gt;
 
 &lt;p&gt;Tuy nhiên hiện nay mình chưa thấy phím tắt để bật tắt nhanh chế độ này do đó mình vẫn dùng theo cách 2, vì tính năng này vẫn chưa được hoàn thiện khi chạy trên một số website.
 &lt;img src=&quot;/assets/images/Che-Do-Dark-Mode-Tren-Chrome-va-Firefox-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -110,7 +110,7 @@
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/e0hHo2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để xem key online.)&lt;/em&gt;&lt;/p&gt;
 
@@ -122,7 +122,7 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-xyplorer-2050&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Xyplorer 20.50&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 
@@ -169,7 +169,7 @@
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/KnOK5z&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt;
 Các bạn download 01 trong các link sau:&lt;/p&gt;
@@ -180,7 +180,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-movavi-video-editor-plus-2020&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Movavi Video Editor Plus 2020&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 
@@ -224,7 +224,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-movavi-video-converter-premium-v19-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Movavi Video Converter Premium v19 Portable&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn cài đặt&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -258,7 +258,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-iobit-uninstaller-pro-v9-portable&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Iobit Uninstaller Pro v9 Portable&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Hướng dẫn cài đặt&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -290,7 +290,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/61PKz3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -300,7 +300,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-foxit-phantom-pdf-business-9&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Foxit Phantom PDF Business 9&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -343,7 +343,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/fGXnEJ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt&lt;/strong&gt; &lt;em&gt;(các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -353,7 +353,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-camtasia-2019&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Camtasia 2019&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 
@@ -404,14 +404,14 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/nmKPmz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Bản cài đặt ở trên đã là bản Full. Bạn chỉ cần tải về và cài đặt là được, phần mềm sẽ &lt;strong&gt;tự động kích hoạt.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;b-hướng-dẫn-cài-đặt-adobe-after-effects-2020&quot;&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;B. Hướng dẫn cài đặt Adobe After Effects 2020&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
+&lt;p&gt;Sau khi download các bạn cần giải nén file bằng Winrar hoặc 7-zip (Nếu chưa có phần mềm giải nén thì các bạn có thể download &lt;a href=&quot;https://phanmemvps.com/posts/Winrar-6.61-va-7-zip&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;, 2 phần mềm này có chức năng tương tự nhau nên các bạn dùng phần mềm nào cũng được)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hướng dẫn cài đặt&lt;/strong&gt;&lt;/p&gt;
 
@@ -450,7 +450,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
   &lt;li&gt;Link dự phòng tốc độ cao: &lt;a href=&quot;https://blfy.link/9XvrkM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Link dự phòng&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
+&lt;p&gt;Trường hợp Google Drive bị lỗi &lt;strong&gt;vượt quá giới hạn lượt tải&lt;/strong&gt; do nhiều người download, các bạn download bằng link dự phòng hoặc tham khảo cách khắc phục lỗi &lt;a href=&quot;https://phanmemvps.com/posts/Tai-File-Google-Drive-Bi-Gioi-Han-Download&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Link Key kích hoạt:&lt;/strong&gt; &lt;em&gt;(Các bạn chọn 01 trong các link để download)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -472,7 +472,7 @@ Các bạn download 01 trong các link sau:&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Các bạn có thể tham khảo thêm cách active các phiên bản window 10 và Office 2019 &lt;a href=&quot;https://phanmemvps.com/Kich-Hoat-Window-10-Office-2019&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Các bạn có thể tham khảo thêm cách active các phiên bản window 10 và Office 2019 &lt;a href=&quot;https://phanmemvps.com/posts/Kich-Hoat-Window-10-Office-2019&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;tại đây&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#4078c0&quot;&gt;Chúc các bạn thành công!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 
